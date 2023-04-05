@@ -1,2 +1,1 @@
-# turtle-coin
-Turtle trading with binance api
+# turtle-coin-trader
